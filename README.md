@@ -1,5 +1,7 @@
-# stokminder-cc
+# StokMinder CC Div
+## Bangkit Capstone Project 2023 H2
 
+### Progress per 05/12/2023
 1. Create Authentication for user login and register
    ![auth1](https://github.com/AlfandiMario/stokminder-cc/assets/109430623/099d9405-785d-4c3b-bfd3-e98a07c3a43f)
 
